@@ -11,7 +11,7 @@ and why they break.
 - Web technologies
 
 **Stack**  
-`C` `Lua` `MySQL` `Git` `VS Code`
+- `C` `Lua` `MySQL` `Git` `VS Code`
 
 ---
 
