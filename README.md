@@ -1,16 +1,26 @@
 ![Space Shooter](game.gif)
 
-![](https://komarev.com/ghpvc/?username=dsgvlp&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=dsgvlp&color=grey&style=flat)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=dsgvlp&theme=tokyonight&hide_border=false)<br/>
+---
 
-## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**dsgvlp** - *The work matters. The name does not.*
 
-## 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I build systems.  
+Understanding how they work,  
+and why they break.
+
+**Focus**
+- Cybersecurity
+- Systems & Low-level programming
+- Database engineering
+- Web technologies
+
+**Stack**  
+`C` `Lua` `MySQL` `Git` `VS Code`
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=dsgvlp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=dsgvlp&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsgvlp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
