@@ -7,7 +7,6 @@ and why they break.
 **Focus**
 - Cybersecurity
 - Systems & Low-level programming
-- Database engineering
 - Web technologies
 
 **Stack**  
