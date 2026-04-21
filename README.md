@@ -1,8 +1,4 @@
-![Space Shooter](game.gif)
-
----
-
-**dsgvlp** - *The work matters. The name does not.*
+## **dsgvlp** - *The work matters. The name does not.*
 
 I build systems.  
 Understanding how they work,  
@@ -20,4 +16,8 @@ and why they break.
 ---
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dsgvlp&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=dsgvlp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=dsgvlp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+---
+
+![Space Shooter](game.gif)
