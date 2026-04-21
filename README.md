@@ -19,5 +19,5 @@ and why they break.
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=dsgvlp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dsgvlp&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=dsgvlp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
